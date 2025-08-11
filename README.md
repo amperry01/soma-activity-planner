@@ -5,7 +5,7 @@ The system integrates **time series modeling**, **personalized classification**,
 
 ---
 
-## 🛠 Features
+## Features
 - **Data Integration:** Reads and processes Oura Ring data
 - **Time Series Modeling:** Forecasts recovery and readiness trends
 - **Personalized Recommendations:** Classifies optimal activity windows
@@ -13,7 +13,7 @@ The system integrates **time series modeling**, **personalized classification**,
 
 ---
 
-## 📂 Planned Tech Stack
+## Planned Tech Stack
 **Backend:** Python, FastAPI/Flask, scikit-learn/PyTorch, Pandas, NumPy  
 **Frontend:** React or Next.js, Tailwind CSS  
 **Data:** Oura API / exported data files  
@@ -21,7 +21,7 @@ The system integrates **time series modeling**, **personalized classification**,
 
 ---
 
-## 🧭 Project Roadmap
+## Project Roadmap
 - [ ] Integrate sample Oura data (mock dataset for dev)  
 - [ ] Build data preprocessing pipeline  
 - [ ] Develop ML model for activity recommendation  
@@ -31,10 +31,10 @@ The system integrates **time series modeling**, **personalized classification**,
 
 ---
 
-## 📊 Example (Planned)
+## Example (Planned)
 Visuals will be added after the first MVP build, including activity recommendation timelines and recovery forecasts.
 
 ---
 
-## 📜 License
+## License
 This project is currently in development and is not licensed for production use.
