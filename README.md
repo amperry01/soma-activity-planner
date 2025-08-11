@@ -12,6 +12,7 @@ The system integrates **time series modeling**, **personalized classification**,
 ## Planned Tech Stack
 **Backend:** Python, FastAPI/Flask, scikit-learn/PyTorch, Pandas, NumPy  
 **Frontend:** React (MUI) or Next.js, Tailwind CSS/Bootstrap
+
 **Data:** Oura API / exported data files  
 **Deployment:** Vercel/Render
 
